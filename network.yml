@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: A basic network stack that creates a VPC with a single public subnet and some ECS resources that we need to start a Docker container within this subnet.
+Description: A basic network stack that creates a VPC with a single public subnet and a Route table..
 Resources:
 
   VPC:
